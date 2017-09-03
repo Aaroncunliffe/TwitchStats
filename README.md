@@ -10,7 +10,6 @@ Once a channel name is entered, it parses and displays the results in a UI,
 * Followers
 * Unique viewers
 
-![twitchstats](https://github.com/Aaroncunliffe/TwitchStats/blob/master/twitchstats.png?raw=true)
 
 #### Useful stream information such as:
 * Current Viewers
@@ -20,6 +19,8 @@ Once a channel name is entered, it parses and displays the results in a UI,
 * Current stream thumbnail
 
 Also dynamically graphs channel viewers over time whilst the program is running.
+
+![twitchstats](https://github.com/Aaroncunliffe/TwitchStats/blob/master/twitchstats.png?raw=true)
 
 ## Usage:
 In both mainForm.cs and chatForm.cs string ClientID needs to be replaced with a valid client id, an account can be made at https://dev.twitch.tv/
